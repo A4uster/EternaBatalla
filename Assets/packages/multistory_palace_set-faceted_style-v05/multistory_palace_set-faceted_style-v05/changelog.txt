@@ -1,0 +1,5 @@
+v01 - added texture variations
+v02 - fixed some naming and duplicate items
+v03 - added level building elements
+v04 - fixed reversed normals on some parts
+V05 - fixed reversed normals again
